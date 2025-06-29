@@ -43,7 +43,7 @@ Real-time status updates
 Setup:
 Clone the repository:
 
-git clone https://github.com/sigma-cyber-ghost/weaponized-reporting-tool.git
+git clone https://github.com/sigma-cyber-ghost/wenponized_reproting_tool.git
 cd weaponized-reporting-tool
 
 Install dependencies:
