@@ -7,7 +7,7 @@ Telegram: https://t.me/Sigma_Cyber_Ghost
 📌 Description
 Sigma Cyber Ghost is an advanced, multi-threaded reporting tool designed to automate mass reporting of target accounts across multiple social media platforms. It utilizes proxy rotation, user-agent spoofing, and validation checks to maximize effectiveness while minimizing detection.
 
-⚠ Warning: This tool is for educational purposes only. Misuse may violate platform Terms of Service and result in account suspensions or legal consequences.
+⚠ Warning: This tool is not for educational purposes only. Misuse may violate platform Terms of Service and result in account suspensions or illegal consequences.
 
 🔥 Features
 ✅ Multi-Platform Support:
