@@ -48,11 +48,12 @@ cd weaponized-reporting-tool
 
 Install dependencies:
 
-pip install request"
+pip install requests urllib3
 
 Run the tool:
 
-python sigma_report.py
+python3 sigma_report.py [put your proxy file] Or
+python3 sigma_report.py  
 
 🚀 Usage
 Enter the target username (e.g., example_user).
